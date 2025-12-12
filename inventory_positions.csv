@@ -1,0 +1,5 @@
+SKU,Category,Shelf_ID,Shelf_Capacity,Current_OnShelf,Backroom_Stock,Daily_Sales_Rate
+SKU1,Beverages,Shelf_A1,50,20,30,5
+SKU2,Beverages,Shelf_A2,50,5,20,2
+SKU3,Snacks,Shelf_B1,30,30,10,4
+SKU4,Snacks,Shelf_B2,30,10,5,3
